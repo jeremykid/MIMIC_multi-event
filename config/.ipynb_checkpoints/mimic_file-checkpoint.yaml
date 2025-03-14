@@ -1,0 +1,7 @@
+# config.yaml
+project:
+  name: "ECG_MIMIC_IV_dx"
+  # mimic_parent_math: "/data/padmalab_external/special_project/MIMIC_IV/files/mimiciv/2.2/"
+  mimic_parent_math: "/data/padmalab_external/special_project/physionet.org/files/mimiciv/3.0/"
+  
+
